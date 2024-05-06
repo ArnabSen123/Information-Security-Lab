@@ -1,2 +1,4 @@
 Task 1:
-In task 1 we use caesar ciphar decoding rules to decode the ciphar (D_{n}(x)=(x-n)\mod {26}.)
+In task 1 caesar ciphar decoding rules is used to decode the ciphar (cipher[i] = (cipher[i]-'a'-key+26)%26+'a').
+
+
