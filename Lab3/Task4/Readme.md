@@ -1,0 +1,2 @@
+ECB, CBC need padding
+
