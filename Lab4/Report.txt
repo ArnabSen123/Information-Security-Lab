@@ -1,0 +1,15 @@
+###Execution process has been done using command line:
+Choose an option:
+1. AES Encryption/Decryption
+2. RSA Encryption/Decryption
+3. RSA Signature
+4. SHA-256 Hashing
+5. Exit
+Enter your choice:
+
+###Websites used for utilizing program:
+1.https://www.laurentluce.com/posts/python-and-cryptography-with-pycrypto/
+2.https://onboardbase.com/blog/aes-encryption-decryption/
+3.https://medium.com/coinmonks/rsa-encryption-and-decryption-with-pythons-pycryptodome-library-94f28a6a1816
+4.https://pycryptodome.readthedocs.io/en/latest/src/signature/pkcs1_v1_5.html
+5.https://www.geeksforgeeks.org/hashlib-module-in-python/
